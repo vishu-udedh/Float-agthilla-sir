@@ -4,7 +4,7 @@ Starter repo for an IEEE-754 single-precision floating-point multiplier and divi
 
 Spec: [FP_MulDiv/](FP_MulDiv/)
 
-## Submit
+## Submit:
 
 1. Install the **`risc-n-roll-ci`** GitHub App on your group's repo (that exact repo, or CI never sees it).
 2. Write your design, commit and push. `rnr-stage.yaml` suggests `FP_MulDiv/rtl.sv`; if you use other file names, edit the paths there (no spaces in paths).
